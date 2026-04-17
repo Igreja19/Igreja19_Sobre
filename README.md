@@ -74,7 +74,7 @@ Hoje trabalho em projetos profissionais em **Go + Vue 3 + PostgreSQL** (SaaS pro
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Igreja19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Igreja19&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igreja19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
@@ -99,7 +99,7 @@ type Developer struct {
 func main() {
     me := Developer{
         Name:     "Fábio Miguel I. Almeida",
-        Location: "Leiria, Portugal 🇵🇹",
+        Location: "Leiria, Portugal",
         Started:  "Hacking GTA as a kid, never looked back",
         Principles: []string{
             "Clean architecture over cleverness",
@@ -111,8 +111,6 @@ func main() {
     _ = me // always shipping
 }
 ```
-
----
 
 ## 📫 Contacto
 
